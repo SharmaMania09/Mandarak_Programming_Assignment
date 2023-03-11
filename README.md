@@ -22,11 +22,11 @@ Download the repository and open it in an ide such as IntelliJ or Eclipse <br/>
 Instructions for java programs
 
 1) Employee Listings<br/>
-   a) Download the employees.csv file from github repo.<br/>
-   b) Put the EmployeeListing.java file and employees.csv file in same folder.<br/>
-   c) Change the path in employeesInputPath, managerOutputPath, singleNameEmployeesPath based on the downloaded location.<br/>
-   d) Run the program from intellij idea.<br/>
-   e) Output will be saved in the same folder.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;a) Download the employees.csv file from github repo.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; b) Put the EmployeeListing.java file and employees.csv file in same folder.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;c) Change the path in employeesInputPath, managerOutputPath, singleNameEmployeesPath based on the downloaded location.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;d) Run the program from intellij idea.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;e) Output will be saved in the same folder.<br/>
 <br/>
 2) Combination Sort<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;a) Uncomment the code to take the user input<br/>
