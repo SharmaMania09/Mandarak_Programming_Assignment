@@ -25,7 +25,7 @@ Instructions for java programs<br />
 <br />1) Employee Listings<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;a) Download the employees.csv file from github repo.<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;b) Put the EmployeeListing.java file and employees.csv file in same folder.<br/>
-&nbsp; &nbsp; &nbsp; &nbsp;c) Change the path in employeesInputPath, managerOutputPath, singleNameEmployeesPath based on the downloaded location.<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;c) Change the path in employeesInputPath, output files based on the downloaded location.<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;d) Run the program from intellij idea.<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;e) Output will be saved in the same folder.<br/>
 <br/>
