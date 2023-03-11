@@ -34,7 +34,7 @@ Instructions for java programs
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ii) Enter the n numbers<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iii) Run the program<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iv) Output will be shown in the terminal<br/>
-   b) For hardcoded code<br/>
-     i) Change the values according to the hardcoded code<br/>
-     ii) Run the program<br/>
-     iii) Output will be shown in the terminal<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;b) For hardcoded code<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;i) Change the values according to the hardcoded code<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ii) Run the program<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iii) Output will be shown in the terminal<br/>
