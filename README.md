@@ -19,8 +19,8 @@ IDE - Eclipse or Intellij Idea
 
 Download the repository and open it in an ide such as IntelliJ or Eclipse <br/>
 
-Instructions for java programs
-
+Instructions for java programs<br />
+<br />
 1) Employee Listings<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;a) Download the employees.csv file from github repo.<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; b) Put the EmployeeListing.java file and employees.csv file in same folder.<br/>
