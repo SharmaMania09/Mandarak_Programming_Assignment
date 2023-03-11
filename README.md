@@ -29,7 +29,7 @@ Instructions for java programs
    e) Output will be saved in the same folder.<br/>
 <br/>
 2) Combination Sort<br/>
-&nbsp; &nbsp;a) Uncomment the code to take the user input<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;a) Uncomment the code to take the user input<br/>
 i) Enter the n which contains total number to input in the list<br/>
 ii) Enter the n numbers<br/>
 iii) Run the program<br/>
