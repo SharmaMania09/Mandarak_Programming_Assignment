@@ -39,3 +39,25 @@ Instructions for java programs<br />
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;i) Change the values according to the hardcoded code<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ii) Run the program<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iii) Output will be shown in the terminal<br/>
+<br/>
+3) Shortest Distance of Manhattan Path<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;a) Uncomment the code to take the user input<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;i) Enter the x and y coordinates<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ii) Enter the input string<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iii) Run the program<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iv) Output will be shown in the terminal<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;b) For hardcoded code<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;i) Change the values according to the hardcoded code<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ii) Run the program<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iii) Output will be shown in the terminal<br/>
+<br/>
+4) Perfect Number<br />
+&nbsp; &nbsp; &nbsp; &nbsp;a) Uncomment the code to take the user input<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;i) Enter the number<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ii) Run the program<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iii) Output will be shown in the terminal<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;b) For hardcoded code<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;i) Change the values according to the hardcoded code<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ii) Run the program<br/>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;iii) Output will be shown in the terminal<br/>
+<br/>
