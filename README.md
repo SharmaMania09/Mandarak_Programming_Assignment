@@ -11,7 +11,7 @@ Contains java program for:<br/>
   3) Shortest Distance of Manhattan Path</br>
   4) Perfect Number
 
-#### Detailed description to execute code is given below.
+#### Note: Detailed description to execute code is given below.
 
 ## Prerequisites
 
